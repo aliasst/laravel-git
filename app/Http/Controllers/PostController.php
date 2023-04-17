@@ -20,4 +20,9 @@ class PostController extends Controller
         echo 'bbbbbbbb2222333333';
     }
 
+    public function b()
+    {
+        echo 'b';
+    }
+
 }
