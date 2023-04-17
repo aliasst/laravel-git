@@ -15,6 +15,9 @@ class PostController extends Controller
         echo 'clone';
     }
 
-
+    public function bbbbbbbb()
+    {
+        echo 'bbbbbbbb';
+    }
 
 }
