@@ -9,4 +9,12 @@ class PostController extends Controller
     {
         echo 'test';
     }
+
+    public function clone()
+    {
+        echo 'clone';
+    }
+
+
+
 }
